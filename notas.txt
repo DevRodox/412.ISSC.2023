@@ -1,7 +1,8 @@
 Commandos:
 
-- git clone
-- git status 
-- git git add notas.txt 
-- git commit -m "se agregaron comandos"
-- git push 
+ - git clone 
+ - git status
+ - git add
+ - git commit 
+ - git fetch 
+ - git pull 
