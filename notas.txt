@@ -1,1 +1,7 @@
-hola mundo 
+Commandos:
+
+- git clone
+- git status 
+- git git add notas.txt 
+- git commit -m "se agregaron comandos"
+- git push 
