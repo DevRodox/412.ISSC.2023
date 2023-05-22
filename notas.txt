@@ -33,3 +33,8 @@ Commandos:
     En otras palabras, descarga los commits que hay en la remota
     y faltan en la local.
     Ej. git pull  
+
+
+    Ramas: 
+    TODO: Agregar definicion de ramas.   
+  
